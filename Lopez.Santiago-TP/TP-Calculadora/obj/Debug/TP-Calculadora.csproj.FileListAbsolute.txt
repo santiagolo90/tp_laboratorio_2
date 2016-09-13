@@ -16,3 +16,18 @@ C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago-TP\TP-Calculadora\obj\D
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.csproj.GenerateResource.Cache
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.exe
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.pdb
+E:\UTN\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.exe.config
+E:\UTN\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.exe
+E:\UTN\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.pdb
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.exe.config
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.exe
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.pdb
+C:\Workspace\Visual studio 2012\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.exe.config
+C:\Workspace\Visual studio 2012\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.exe
+C:\Workspace\Visual studio 2012\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.pdb
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.exe
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\bin\Debug\TP-Calculadora.pdb
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP_Calculadora.Form1.resources
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP_Calculadora.Properties.Resources.resources
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago-TP\TP-Calculadora\obj\Debug\TP-Calculadora.csproj.GenerateResource.Cache

@@ -57,6 +57,11 @@
             // cmbOperacion
             // 
             this.cmbOperacion.FormattingEnabled = true;
+            this.cmbOperacion.Items.AddRange(new object[] {
+            "+",
+            "-",
+            "*",
+            "/"});
             this.cmbOperacion.Location = new System.Drawing.Point(118, 59);
             this.cmbOperacion.Name = "cmbOperacion";
             this.cmbOperacion.Size = new System.Drawing.Size(52, 21);
