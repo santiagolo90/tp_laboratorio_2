@@ -1,0 +1,15 @@
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.csprojResolveAssemblyReference.cache
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\bin\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.csprojResolveAssemblyReference.cache
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\Lopez.Santiago.2C-Libreria\obj\Debug\Lopez.Santiago.2C-Libreria.pdb

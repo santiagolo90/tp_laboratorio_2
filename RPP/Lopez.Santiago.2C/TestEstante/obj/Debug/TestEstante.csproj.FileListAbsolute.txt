@@ -1,0 +1,16 @@
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.exe.config
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.exe
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\bin\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\bin\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.exe
+D:\workspace\Recu_Lab2_Primer_Parcial\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.exe.config
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.exe
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.exe
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\bin\Debug\TestEstante.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\bin\Debug\Lopez.Santiago.2C-Libreria.dll
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\bin\Debug\Lopez.Santiago.2C-Libreria.pdb
+D:\workspace\Recu_Lab2_Primer_Parcial\RPP\Lopez.Santiago.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
