@@ -1,0 +1,8 @@
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

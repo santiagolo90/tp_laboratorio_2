@@ -1,0 +1,11 @@
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.pdb

@@ -1,0 +1,28 @@
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.exe
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Archivos.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\EntidadesInstanciables.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\EntidadesInstanciables.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.exe.config
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.exe
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.exe
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Archivos.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\EntidadesInstanciables.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Lopez.Santiago.2C.TP3.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Archivos.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\EntidadesInstanciables.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

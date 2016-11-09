@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb

@@ -1,0 +1,19 @@
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Users\Usuario\Desktop\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Excepciones.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Excepciones.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Lopez.Santiago.2C.TP3\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
