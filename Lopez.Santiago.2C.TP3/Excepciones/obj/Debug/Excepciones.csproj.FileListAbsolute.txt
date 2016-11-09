@@ -6,3 +6,4 @@ C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\bin\
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache

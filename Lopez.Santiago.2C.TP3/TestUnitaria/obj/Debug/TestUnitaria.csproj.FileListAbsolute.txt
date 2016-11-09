@@ -1,0 +1,15 @@
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\TestUnitaria.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\TestUnitaria.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Archivos.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\EntidadesInstanciables.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Lopez.Santiago.2C.TP3.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Archivos.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\EntidadesInstanciables.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Lopez.Santiago.2C.TP3.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\obj\Debug\TestUnitaria.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\obj\Debug\TestUnitaria.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\obj\Debug\TestUnitaria.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Consola.exe
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\TestUnitaria\bin\Debug\Consola.pdb

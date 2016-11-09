@@ -9,3 +9,6 @@ D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Archivos.
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.pdb
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.dll
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache

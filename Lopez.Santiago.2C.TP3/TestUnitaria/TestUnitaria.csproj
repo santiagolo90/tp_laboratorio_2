@@ -53,6 +53,28 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{fd14f8ff-3d63-4add-b5c3-2755675ea118}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Consola\Consola.csproj">
+      <Project>{93f12d1a-9d9f-4b43-915e-3fa14dc589db}</Project>
+      <Name>Consola</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesInstanciables\EntidadesInstanciables.csproj">
+      <Project>{e19a9031-e2be-46f9-b825-42733a00f5c3}</Project>
+      <Name>EntidadesInstanciables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{dae6c53e-337f-4cef-bae0-79d1602b1d98}</Project>
+      <Name>Excepciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lopez.Santiago.2C.TP3\EntidadesAbstractas.csproj">
+      <Project>{75e36289-ecc6-4fa2-b773-eb841672817b}</Project>
+      <Name>EntidadesAbstractas</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
