@@ -75,7 +75,7 @@ namespace EntidadesInstanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("JORNADA: ");
-            sb.AppendLine("CLASE DE " + this._clase.ToString() );
+            sb.Append("CLASE DE " + this._clase.ToString() +" " );
             sb.AppendLine("POR: " + this._instructor.ToString() );
             sb.AppendLine("ALUMNOS: ");
             foreach (Alumno item in this._alumnos)

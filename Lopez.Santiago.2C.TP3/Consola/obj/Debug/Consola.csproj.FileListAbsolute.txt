@@ -26,3 +26,6 @@ D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\EntidadesI
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Excepciones.pdb
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Lopez.Santiago.2C.TP3.pdb
 D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP3\Consola\obj\Debug\Consola.pdb
