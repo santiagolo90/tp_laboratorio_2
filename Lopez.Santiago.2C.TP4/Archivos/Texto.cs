@@ -9,11 +9,11 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-        string aux;//"historial.dat"
+        string lugar;//"historial.dat"
 
         public Texto(string archivo)
         {
-            this.aux = archivo;
+            this.lugar = archivo;
         }
 
         public bool guardar(string datos)
@@ -21,9 +21,9 @@ namespace Archivos
             bool aux = false;
             StreamWriter sw;
             //using (sw = new StreamWriter((datos), true))
-            using (sw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+ this.aux ,true,Encoding.UTF8))
+            using (sw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) +"\\"+ this.lugar, true, Encoding.UTF8))
             {
-                sw.Write(datos);
+                sw.WriteLine(datos);
                 aux = true;
             }
             return aux; ;
@@ -35,11 +35,13 @@ namespace Archivos
             bool aux = false;
             datos = new List<string>();
             StreamReader sr;
-            using (sr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+ this.aux))
+            using (sr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) +"\\"+ this.lugar))
             {
 
-                //datos.Add = sr.ReadToEnd();
+                
                 datos.Add(sr.ReadToEnd());
+                
+                
 
                 aux = true;
 

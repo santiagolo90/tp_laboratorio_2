@@ -103,7 +103,8 @@ namespace Navegador
         private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmHistorial h = new frmHistorial();
-            h.ToString();//Muestra el historial
+            //h.ToString();//Muestra el historial
+            h.Show();//muestra el formulario
            
         }
 
@@ -115,6 +116,18 @@ namespace Navegador
         private void btnIr_Click(object sender, EventArgs e)
         {
             //mostrar y guardar en historial
+
+            string aux;
+            string aux2;
+            aux = "http://" + txtUrl.Text;
+            if (aux.StartsWith("http://"))
+                aux2 = aux;
+            else
+                aux2 = "http://" + aux;
+            
+
+            rtxtHtmlCode.Text = aux2;
+            archivos.guardar(aux2);
         }
     }
 }

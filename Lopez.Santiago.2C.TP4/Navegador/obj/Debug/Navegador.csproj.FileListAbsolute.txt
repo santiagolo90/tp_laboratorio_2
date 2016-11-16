@@ -49,3 +49,6 @@ C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 -
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\bin\Debug\Navegador.exe.config
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.exe
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.pdb
