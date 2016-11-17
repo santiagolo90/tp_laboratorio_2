@@ -14,9 +14,15 @@ namespace Hilo
         private string html;
         private Uri direccion;
 
+        // Delegado del evento
+        public delegate void EventRaise(string html);
+        // Evento del tipo del delegado
+        public event EventRaise EventoFinal;
+
         public Descargador(Uri direccion)
         {
             this.html = "";
+            this.direccion = direccion;
         }
 
         public void IniciarDescarga()
@@ -41,6 +47,7 @@ namespace Hilo
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
+            EventoFinal(this.html = e.Result);  
         }
     }
 }

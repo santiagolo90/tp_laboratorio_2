@@ -116,7 +116,6 @@ namespace Navegador
         private void btnIr_Click(object sender, EventArgs e)
         {
             //mostrar y guardar en historial
-
             string aux;
             string aux2;
             aux = "http://" + txtUrl.Text;
@@ -124,9 +123,15 @@ namespace Navegador
                 aux2 = aux;
             else
                 aux2 = "http://" + aux;
-            
 
-            rtxtHtmlCode.Text = aux2;
+            Uri uri = new Uri(aux2);
+            Descargador web = new Descargador(uri);
+            web.EventoFinal += new Hilo.Descargador.EventRaise(FinDescarga);
+            web.IniciarDescarga();
+            //FinDescarga(aux2);
+
+
+            //rtxtHtmlCode.Text = aux2;
             archivos.guardar(aux2);
         }
     }

@@ -12,3 +12,8 @@ C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 -
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
 C:\Workspace\Visual studio 2012\2doCuatri\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb
+D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
