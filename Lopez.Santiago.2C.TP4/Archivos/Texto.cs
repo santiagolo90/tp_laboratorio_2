@@ -21,7 +21,7 @@ namespace Archivos
             bool aux = false;
             StreamWriter sw;
             //using (sw = new StreamWriter((datos), true))
-            using (sw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) +"\\"+ this.lugar, true, Encoding.UTF8))
+            using (sw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) +"\\"+ this.lugar,true))
             {
                 sw.WriteLine(datos);
                 aux = true;
@@ -37,14 +37,16 @@ namespace Archivos
             StreamReader sr;
             using (sr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) +"\\"+ this.lugar))
             {
+                bool band = true;
+                while (band == true)
+                {
+                    if (sr.EndOfStream)//si esta en el final de la lista cambia sale
+                        band = false;
+                    else
+                        datos.Add(sr.ReadLine());
 
-                
-                datos.Add(sr.ReadToEnd());
-                
-                
-
+                }  
                 aux = true;
-
             }
             return aux;
         }

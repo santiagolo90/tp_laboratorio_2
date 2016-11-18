@@ -115,24 +115,33 @@ namespace Navegador
 
         private void btnIr_Click(object sender, EventArgs e)
         {
-            //mostrar y guardar en historial
-            string aux;
-            string aux2;
-            aux = "http://" + txtUrl.Text;
-            if (aux.StartsWith("http://"))
-                aux2 = aux;
-            else
-                aux2 = "http://" + aux;
+            try
+            {
+                //mostrar y guardar en historial
+                string aux = "";
+                string aux2;
+                aux = "http://" + txtUrl.Text;
+                if (aux.StartsWith("http://"))
+                    aux2 = aux;
+                else
+                    aux2 = "http://" + aux;// string con http:// por defecto
 
-            Uri uri = new Uri(aux2);
-            Descargador web = new Descargador(uri);
-            web.EventoFinal += new Hilo.Descargador.EventRaise(FinDescarga);
-            web.IniciarDescarga();
-            //FinDescarga(aux2);
-
-
-            //rtxtHtmlCode.Text = aux2;
-            archivos.guardar(aux2);
+                Uri uri = new Uri(aux2);
+                Descargador web = new Descargador(uri);
+                web.EventoTiempo += new Hilo.Descargador.EventTiempo(ProgresoDescarga);//llama a ProgresoDescarga y genera la barra de carga
+                web.EventoFinal += new Hilo.Descargador.EventRaise(FinDescarga);//Llama a FinDescarga muestra el contenido en rtxtHtmlCode
+                Thread hilo = new Thread(web.IniciarDescarga);
+                hilo.Start();//inicia el hilo (web.iniciarDescarga)
+                //web.IniciarDescarga();
+                //FinDescarga(aux2);
+                //rtxtHtmlCode.Text = aux2;
+                archivos.guardar(aux2);
+            }
+            catch(Exception auxExc)
+            {
+                MessageBox.Show("Introducir direccion web!!!");
+ 
+            }
         }
     }
 }

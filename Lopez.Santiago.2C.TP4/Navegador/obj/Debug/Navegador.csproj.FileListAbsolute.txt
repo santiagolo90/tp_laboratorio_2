@@ -66,3 +66,6 @@ D:\workspace\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador TP-4 - AlumnoV2\Na
 D:\workspace\tp_laboratorio_2.no\Lopez.Santiago.2C.TP4\Navegador\bin\Debug\Navegador.exe.config
 D:\workspace\tp_laboratorio_2.no\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.exe
 D:\workspace\tp_laboratorio_2.no\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.pdb
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\bin\Debug\Navegador.exe.config
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.exe
+C:\Workspace\Visual studio 2012\tp_laboratorio_2\Lopez.Santiago.2C.TP4\Navegador\obj\Debug\Navegador.pdb

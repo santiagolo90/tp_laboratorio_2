@@ -16,10 +16,12 @@ namespace Hilo
 
         // Delegado del evento
         public delegate void EventRaise(string html);
+        public delegate void EventTiempo(int tiempo);
         // Evento del tipo del delegado
-        public event EventRaise EventoFinal;
+        public event EventRaise EventoFinal;//evento con el que carga la web
+        public event EventTiempo EventoTiempo;//evento de tiempo
 
-        public Descargador(Uri direccion)
+        public Descargador(Uri direccion)// contructor de Descargador (html y direccion)
         {
             this.html = "";
             this.direccion = direccion;
@@ -44,6 +46,7 @@ namespace Hilo
 
         private void WebClientDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
+            this.EventoTiempo(e.ProgressPercentage);
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
